@@ -33,6 +33,8 @@
   },
   "devDependencies": {
     "gulp": "^3.8.10",
+    "gulp-handlebars": "^3.0.1",
+    "gulp-wrap": "^0.11.0",
     "should": "^4.4.2",
     "stream-assert": "^2.0.2"
   },

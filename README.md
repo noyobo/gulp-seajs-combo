@@ -1,5 +1,10 @@
 # gulp-seajs-combo
 
+[![npm version](http://img.shields.io/npm/v/gulp-seajs-combo.svg)](https://www.npmjs.org/package/gulp-seajs-combo)
+[![npm download](http://img.shields.io/npm/dm/gulp-seajs-combo.svg)](https://www.npmjs.org/package/gulp-seajs-combo)
+[![Build Status](https://travis-ci.org/noyobo/gulp-seajs-combo.svg)](https://travis-ci.org/noyobo/gulp-seajs-combo)
+[![Coverage Status](https://img.shields.io/coveralls/noyobo/gulp-seajs-combo.svg)](https://coveralls.io/r/noyobo/gulp-seajs-combo)
+
 ***
 > seajs(CMD) Module combo pulgin for gulp
 
